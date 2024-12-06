@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kyber-security
+- 👀 I’m interested in expanding my knowledge in security 
+- 🌱 I’m currently learning the fundamentals of SOC
+- ⚡ Fun fact: Your brain is constantly eating itself 😁
